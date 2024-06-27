@@ -1,2 +1,3 @@
-# python
-apprentissage du langag python
+# mon premier code
+apprentissage du langage python
+gg
